@@ -1,0 +1,16 @@
+.navbar{
+    background-color: #F2DFD1;
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    color: #9AAB87;
+}
+
+.card-body{
+    background-color: #F2DFD1;
+}
+
+.btn{
+    background-color: #F5F5F5;
+    color:#9AAB87;
+}
